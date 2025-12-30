@@ -81,6 +81,10 @@ small-tools/
 - ❤️ 觉得有用？给项目点个 **Star** 吧！
 
 ---
+### 📥 下载便携版
+- [NetFusion-Lite-v1.0.exe](https://github.com/.../releases)（绿色单文件，解压即用）
+- 首次运行需安装 [Microsoft Visual C++ Redistributable](https://aka.ms/vs/17/release/vc_redist.x64.exe)
 
 > Made with ❤️ by [danielpang20251225](https://github.com/danielpang20251225)  
 > 本项目采用 [MIT 许可证](LICENSE) —— 免费用于个人及商业用途。
+
