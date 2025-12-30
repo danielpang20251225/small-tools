@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="256" height="256" viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg">
+  <!-- 背景圆角矩形（可选） -->
+  <rect width="256" height="256" rx="40" fill="#4A6CF7"/>
+
+  <!-- Wi-Fi 信号波（白色） -->
+  <circle cx="128" cy="128" r="40" fill="none" stroke="white" stroke-width="8" opacity="0.9"/>
+  <circle cx="128" cy="128" r="60" fill="none" stroke="white" stroke-width="8" opacity="0.6"/>
+  <circle cx="128" cy="128" r="80" fill="none" stroke="white" stroke-width="8" opacity="0.3"/>
+
+  <!-- 以太网线（白色，两根平行线代表双绞线） -->
+  <line x1="60" y1="180" x2="196" y2="180" stroke="white" stroke-width="12" stroke-linecap="round"/>
+  <line x1="60" y1="200" x2="196" y2="200" stroke="white" stroke-width="12" stroke-linecap="round"/>
+
+  <!-- 叠加融合箭头（白色，从线指向 Wi-Fi） -->
+  <path d="M100 170 L128 140 L156 170" fill="none" stroke="white" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
